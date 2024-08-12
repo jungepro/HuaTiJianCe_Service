@@ -1,0 +1,19 @@
+后台地址：
+http://localhost:8080/coderQ/admin/dist/index.html
+
+说明：
+先替换SetCookie中的cookie
+
+账号密码：
+admin       123456
+
+演示数据：
+微博地址：
+https://m.weibo.cn/
+
+
+演示数据：
+没什么高见       4900624946697342           https://m.weibo.cn/detail/4900624946697342
+谁华            4900574674029435           https://m.weibo.cn/detail/4900574674029435
+鬼文子           4900551312277515           https://m.weibo.cn/detail/4900551312277515
+
